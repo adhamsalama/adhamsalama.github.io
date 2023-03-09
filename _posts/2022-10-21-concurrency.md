@@ -2,7 +2,7 @@
 title: "Code Execution: Single Threading vs Multithreading vs Multiprocessing"
 date: 2022-10-21 12:12:12 +/-0800
 categories: []
-tags: [python] # TAG names should always be lowercase
+tags: []
 author: adham
 ---
 
@@ -264,7 +264,7 @@ Time = 5 seconds
 
 You can see that in this case, multithreading didn't really give us any significant performance gains and that multiprocessing is almost 2 times faster in the case of CPU-bound tasks.
 
-![I told you so](https://media.tenor.com/sAIHA696KVoAAAAM/toldyouso-colbert.gif align="left")
+![I told you so](https://media.tenor.com/sAIHA696KVoAAAAM/toldyouso-colbert.gif)
 
 ## Summary
 

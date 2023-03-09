@@ -2,7 +2,7 @@
 title: "Code Execution: Single Threading vs Multithreading vs Multiprocessing"
 date: 2022-10-21 12:12:12 +/-0800
 categories: []
-tags: []
+tags: [python]
 author: adham
 ---
 

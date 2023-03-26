@@ -1,6 +1,6 @@
 ---
 title: Improve PostgreSQL query performance by utilizing an index-only scan
-date: 2023-3-27 12:12:12 +/-0800
+date: 2023-3-27 0:0:0 +/-0800
 categories: [Databases]
 tags: [databases]
 author: adham
